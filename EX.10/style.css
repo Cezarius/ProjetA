@@ -1,0 +1,12 @@
+.p {
+  color: rgb(0, 0, 255);
+  /* équivalent à
+  color: blue;
+  color: #0000ff;
+  color: hsl(0, 100%, 50%); */
+}
+
+.perlimpinpin {
+  color: bleu;
+  /* on pourrait aussi utiliser
+  color: rgb(255, 128, 0); */
